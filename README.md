@@ -6,6 +6,8 @@
 This project is a demo of the tutorial I wrote for the [AFSY](https://www.afsy.fr/)
 [Advent calendar 2019](https://afsy.fr/avent/2019).
 
+PS : some new stuff is coming soon...
+
 ## Tutorial
 
 The tutorial is available in french (only for the moment):
